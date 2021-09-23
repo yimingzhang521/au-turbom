@@ -34,7 +34,7 @@ Solutions to problems from the book:
 
 | Topic | Notebook | Description |
 | --- | --- | --- |
-| Principles of thermodynamics and fluid flow | [S. A. Korpela Problem 2-1](01_introduction/korpela_2-01.ipynb) | Steam flow through a bank of nozzles |
+| Principles of thermodynamics and fluid flow | [S. A. Korpela Problem 2-1](./01_introduction/korpela_2-01.ipynb) | Steam flow through a bank of nozzles |
 | Principles of thermodynamics and fluid flow | [S. A. Korpela Problem 2-2](01_introduction/korpela_2-02.ipynb) | Reversible adiabatic air compression |
 | Principles of thermodynamics and fluid flow | [S. A. Korpela Problem 2-3](01_introduction/korpela_2-03.ipynb) | Reversible adiabatic steam expansion |
 | Principles of thermodynamics and fluid flow | [S. A. Korpela Problem 2-4](01_introduction/korpela_2-04.ipynb) | Reversible adiabatic water pumping |
