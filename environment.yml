@@ -1,0 +1,12 @@
+name: au-turbom
+
+channels:
+  - "conda-forge"
+  - "defaults"
+
+dependencies:
+  - "coolprop"
+  - "ipykernel"
+  - "pylint"
+  - "python"
+  - "sympy"
